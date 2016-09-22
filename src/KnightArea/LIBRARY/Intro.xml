@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Intro" itemID="57e338cc-00000007" lastModified="1474509004">
+  <timeline>
+    <DOMTimeline name="Intro">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="333.05" height="154.95" autoExpand="true">
+                  <matrix>
+                    <Matrix a="1.25045776367188" d="1.25045776367188" tx="-244.5" ty="-139.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Knight</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="96" bitmapSize="1920" face="VinerHandITC" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="216.4" height="154.95">
+                  <matrix>
+                    <Matrix tx="28.6" ty="-14.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Area</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="96" face="VinerHandITC" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
