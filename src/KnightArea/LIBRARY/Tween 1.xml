@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 1" itemID="57e33fc4-00000038" symbolType="graphic" lastModified="1474512719">
+  <timeline>
+    <DOMTimeline name="Tween 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="333.05" height="154.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.25045776367188" d="1.25045776367188" tx="-244.5" ty="-139.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Knight</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="96" bitmapSize="1920" face="VinerHandITC" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="216.4" height="154.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="28.6" ty="-14.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Area</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="96" face="VinerHandITC" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

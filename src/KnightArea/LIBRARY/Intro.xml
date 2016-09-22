@@ -1,37 +1,53 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Intro" itemID="57e338cc-00000007" lastModified="1474509004">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Intro" itemID="57e338cc-00000007" linkageExportForAS="true" linkageClassName="SaffronsGameEngine.MainClass" lastModified="1474510863">
   <timeline>
     <DOMTimeline name="Intro">
       <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="11" name="readyToLoad" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
         <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
-            <DOMFrame index="0" keyMode="9728">
+            <DOMFrame index="0" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
               <elements>
-                <DOMStaticText selected="true" width="333.05" height="154.95" autoExpand="true">
-                  <matrix>
-                    <Matrix a="1.25045776367188" d="1.25045776367188" tx="-244.5" ty="-139.95"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Knight</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="96" bitmapSize="1920" face="VinerHandITC" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
-                <DOMStaticText selected="true" width="216.4" height="154.95">
-                  <matrix>
-                    <Matrix tx="28.6" ty="-14.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Area</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="96" face="VinerHandITC" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 1" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 1" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

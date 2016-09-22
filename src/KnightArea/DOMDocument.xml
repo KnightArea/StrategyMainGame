@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="1024" height="768" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 15.0 build 173" majorVersion="15" buildNumber="173" viewAngle3D="95.9964345971146" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <symbols>
-          <Include href="Intro.xml" loadImmediate="false" itemID="57e338cc-00000007" lastModified="1474509004"/>
+          <Include href="Intro.xml" itemID="57e338cc-00000007" lastModified="1474510863"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="57e33fc4-00000038" lastModified="1474512719"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -9,7 +10,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Intro">
+                                        <DOMSymbolInstance libraryItemName="Intro" selected="true">
                                              <matrix>
                                                   <Matrix tx="523.3" ty="387.8"/>
                                              </matrix>
@@ -32,12 +33,30 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="com.air.sdk.path"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\mes\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.sdk.path" v="D:\software\AIRSDK_Compiler_23"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
-          <PublishItem publishSize="7727" publishTime="1474509379" publishDebug="true"/>
-          <PublishItem publishSize="7728" publishTime="1474509337" publishDebug="true"/>
-          <PublishItem publishSize="7728" publishTime="1474509323" publishDebug="true"/>
+          <PublishItem publishSize="9823" publishTime="1474512710" publishDebug="true"/>
+          <PublishItem publishSize="9908" publishTime="1474512698"/>
+          <PublishItem publishSize="9907" publishTime="1474512697" publishDebug="true"/>
+          <PublishItem publishSize="9824" publishTime="1474512668"/>
+          <PublishItem publishSize="9823" publishTime="1474512657"/>
+          <PublishItem publishSize="9823" publishTime="1474512656" publishDebug="true"/>
+          <PublishItem publishSize="9803" publishTime="1474512644" publishDebug="true"/>
+          <PublishItem publishSize="9797" publishTime="1474512631" publishDebug="true"/>
+          <PublishItem publishSize="9795" publishTime="1474512627" publishDebug="true"/>
+          <PublishItem publishSize="9799" publishTime="1474512625" publishDebug="true"/>
+          <PublishItem publishSize="9757" publishTime="1474512607" publishDebug="true"/>
+          <PublishItem publishSize="9750" publishTime="1474512597" publishDebug="true"/>
+          <PublishItem publishSize="9747" publishTime="1474512592" publishDebug="true"/>
+          <PublishItem publishSize="9694" publishTime="1474512544" publishDebug="true"/>
+          <PublishItem publishSize="9693" publishTime="1474512532" publishDebug="true"/>
+          <PublishItem publishSize="9694" publishTime="1474512519" publishDebug="true"/>
+          <PublishItem publishSize="9645" publishTime="1474512500" publishDebug="true"/>
+          <PublishItem publishSize="7868" publishTime="1474512491" publishDebug="true"/>
+          <PublishItem publishSize="7869" publishTime="1474512471" publishDebug="true"/>
+          <PublishItem publishSize="8519" publishTime="1474512465" publishDebug="true"/>
      </publishHistory>
 </DOMDocument>
