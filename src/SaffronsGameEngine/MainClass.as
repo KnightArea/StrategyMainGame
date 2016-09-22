@@ -27,7 +27,7 @@ package SaffronsGameEngine
 		/**This will load the core*/
 		protected function loadCore(event:Event):void
 		{
-			throw "Time to start core" ;
+			myCore.start();
 		}
 	}
 }
