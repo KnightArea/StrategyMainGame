@@ -63,3 +63,5 @@ $RECYCLE.BIN/
 
 #Tools folders
 Music
+*.swf
+*RECOVER_*
